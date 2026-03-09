@@ -6,7 +6,6 @@ This project upgrades a **console-based student management system** into an **in
 ---
 
 ## 🌐 Live Application
-
 🔗 https://student-record-management-system-hvwiqdbspiqdzkddacdukq.streamlit.app/
 
 ---
@@ -31,21 +30,6 @@ This project upgrades a **console-based student management system** into an **in
 - Streamlit  
 - Pandas  
 - Plotly  
-
----
-
-## ⚙️ Run the Application Locally
-Run the Application
-
-Install dependencies:
-
-pip install -r requirements.txt
-
----
-
-Run the app:
-
-streamlit run app.py
 
 ---
 
