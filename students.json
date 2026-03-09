@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Riddhi Jadhav",
+        "roll": "12",
+        "marks": [
+            99,
+            89,
+            88,
+            96,
+            95
+        ],
+        "total": 467,
+        "average": 93.4,
+        "grade": "A"
+    }
+]
