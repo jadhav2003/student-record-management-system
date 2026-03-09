@@ -1,29 +1,34 @@
-Student Record Management System
+📊 Student Record Management System
 
-This project is a Student Record Management Dashboard developed using Python and Streamlit.
-It is an upgraded version of a console-based record management system converted into a web-based interactive application.
+A Student Record Management Dashboard built using Python and Streamlit.
+This project upgrades a console-based student management system into an interactive web application with analytics and visualization features.
 
-Features
+🌐 Live Application
 
-Add student records
+🔗 Open the deployed app:
+https://student-record-management-system-hvwiqdbspiqdzkddacdukq.streamlit.app/
 
-View all students
+✨ Features
 
-Search student by Roll Number
+➕ Add student records
 
-Update student marks
+📋 View all students
 
-Delete student records
+🔍 Search student by Roll Number
 
-Class statistics and performance charts
+✏ Update student marks
 
-Topper leaderboard
+🗑 Delete student records
 
-Upload student data from Excel
+📊 Class statistics and performance charts
 
-Download records as CSV
+🏆 Topper leaderboard
 
-Technologies Used
+📂 Upload student data from Excel
+
+📥 Download records as CSV
+
+🛠 Technologies Used
 
 Python
 
@@ -33,15 +38,23 @@ Pandas
 
 Plotly
 
-Run the Application
+⚙️ Run the Application Locally
 
 Install dependencies:
 
 pip install -r requirements.txt
 
-Run the app:
+Run the application:
 
 streamlit run app.py
-Login Credentials
+🔑 Login Credentials
 Username: admin
 Password: 1234
+📁 Project Structure
+student-record-management-system
+│
+├── app.py
+├── student_record_system.py
+├── students.json
+├── requirements.txt
+└── README.md
