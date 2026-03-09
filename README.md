@@ -36,6 +36,7 @@ This project upgrades a **console-based student management system** into an **in
 Login Credentials
 
 Username: admin
+---
 Password: 1234
 ---
 
